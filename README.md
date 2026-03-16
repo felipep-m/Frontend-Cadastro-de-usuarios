@@ -1,5 +1,6 @@
-# API de cadastro de usuários
+# Frontende cadastro de usuários
 
+Frontend de cadastro de usuarios com listagem de usuários criados em React
 
 - [API de cadastro de usuários](https://github.com/felipep-m/API-Cadastro-de-usuarios)
 
