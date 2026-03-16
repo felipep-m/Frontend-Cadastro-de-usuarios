@@ -1,9 +1,6 @@
 # Frontend cadastro de usuários
 
-Frontend de cadastro de usuarios com listagem de usuários criados em React
-
-- [API de cadastro de usuários](https://github.com/felipep-m/API-Cadastro-de-usuarios)
-
+Frontend de cadastro de usuarios da [API de cadastro de usuários](https://github.com/felipep-m/API-Cadastro-de-usuarios) com listagem de usuários criados em React  
 
 # React + Vite
 
