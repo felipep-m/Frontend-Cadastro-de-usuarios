@@ -1,4 +1,4 @@
-# Frontende cadastro de usuários
+# Frontend cadastro de usuários
 
 Frontend de cadastro de usuarios com listagem de usuários criados em React
 
